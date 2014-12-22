@@ -1,4 +1,6 @@
-FindCoin-Faucet
-===============
+To run faucet:
+* forever start faucet.js
 
-The faucet script modified for FindCoin.
+To stop:
+* forever list
+* forever stop NNN
